@@ -1,6 +1,11 @@
 # Amazon-analysis-report
 A data analysis project featuring amazon sales data. I used Python for the data cleaning, Excel for the analysis, PowerBI for the Visualizations.
+<<<<<<< HEAD
 # Data Cleaning Process
+=======
+
+Data Cleaning Process
+>>>>>>> 57ebd6f (Updated the readme file)
 	Removed Duplicated Records
 	Standardized Inconstistent Formatting
 	Dealt with the missing records in the amount column 
